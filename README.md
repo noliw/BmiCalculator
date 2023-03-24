@@ -1,4 +1,4 @@
-# AND101 Project 4 - CodeMath
+# AND101 Project 4 - BmiCalculator
 
 Submitted by: Nolawi Workineh
 
